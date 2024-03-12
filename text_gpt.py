@@ -1,4 +1,4 @@
-from httpx import Response
+
 from openai import OpenAI
 from apikey import apikey
 import os 
